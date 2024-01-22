@@ -2,6 +2,9 @@
 
 Welcome to the repository for our customized ResNet-R50 model, enhanced with Dilated Convolution and Spatial Pooling! This project aims to improve the performance of the popular ResNet architecture by introducing innovative modifications that enhance its ability to capture spatial information and improve feature extraction.
 
+## Model Architecture
+![model](https://github.com/souvikghosh2000/Multi-Class-Image-Segmentation/assets/43416173/a0d7d04c-7588-4910-ad03-e79fdea99276)
+
 ## Colaberators
 [Souvik Ghosh](https://github.com/souvikghosh2000)
 ## Overview
