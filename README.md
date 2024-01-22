@@ -19,11 +19,7 @@ ResNet (Residual Networks) has been a cornerstone in deep learning, known for it
 
 ## Performance
 
-After training the customized ResNet-R50 on our dataset, we achieved an impressive accuracy of 90%. This showcases the effectiveness of our modifications in improving the model's feature extraction capabilities.
-
-## Usage
-
-To use our customized ResNet-R50 model in your projects, simply follow the instructions provided in the `usage` directory. You can also explore and fine-tune the hyperparameters based on your specific use case.
+After training the customized ResNet-R50 on our dataset, we achieved an impressive accuracy of above 90%. This showcases the effectiveness of our modifications in improving the model's feature extraction capabilities.
 
 ## Contributions
 
