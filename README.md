@@ -7,7 +7,7 @@ Welcome to the repository for our customized ResNet-R50 model, enhanced with Dil
 
 ## Colaberators
 [Souvik Ghosh](https://github.com/souvikghosh2000)
-[Navneet] (https://github.com/nannu-1)
+[Navneet](https://github.com/nannu-1)
 ## Overview
 
 ResNet (Residual Networks) has been a cornerstone in deep learning, known for its ability to train intense neural networks effectively. In this project, we have taken the ResNet-R50 architecture and incorporated Dilated Convolution and Spatial Pooling to enhance its capabilities further. These modifications give the model an increased receptive field, allowing it to capture more contextual information while maintaining computational efficiency.
