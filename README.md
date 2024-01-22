@@ -7,6 +7,7 @@ Welcome to the repository for our customized ResNet-R50 model, enhanced with Dil
 
 ## Colaberators
 [Souvik Ghosh](https://github.com/souvikghosh2000)
+
 [Navneet](https://github.com/nannu-1)
 ## Overview
 
